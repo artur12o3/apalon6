@@ -1,6 +1,7 @@
 #!/bin/bash
+echo "Qu anun@ inja?"
 
-echo "Hello world!"
-echo "es mta u popoxuthyun katareci"
+read name 
+echo "$name"
 
-echo "Hrachoooooooooooooooo"
+echo "Ha du lriv chinaci es )))"

@@ -5,4 +5,4 @@ read name
 echo "$name"
 
 echo "Ha du lriv chinaci es )))"
-echO "XA XA XI XI XU XU"
+echo "XA XA XI XI XU XU"
